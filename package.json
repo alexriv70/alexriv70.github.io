@@ -1,0 +1,36 @@
+{
+  "name": "Riveron-Homepage",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier -write .",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexriv70/alexriv70.github.io.git"
+  },
+  "keywords": [],
+  "author": "Alexander Riveron<alex.joel.riv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexriv70/alexriv70.github.io/issues"
+  },
+  "homepage": "https://github.com/alexriv70/alexriv70.github.io#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^2.1.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "framer-motion": "^6.3.3",
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-next": "^12.1.6",
+    "prettier": "^2.6.2"
+  }
+}
