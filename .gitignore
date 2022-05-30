@@ -1,2 +1,2 @@
-alexriv70.github.io/node_modules/
-alexriv70.github.io/.next/
+node_modules/**
+.next/**
