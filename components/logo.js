@@ -34,7 +34,7 @@ const Logo = () => {
                     frontFamily='M Plus Rounded 1c'
                 fontWeight="bold"
                 ml={3}>
-                Alexander Riveron
+                Alexander J. Riveron
                 </Text>
             </LogoBox>
             </a>
